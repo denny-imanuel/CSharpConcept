@@ -1,0 +1,15 @@
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\bin\Debug\net6.0\CSharpConcept.exe
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\bin\Debug\net6.0\CSharpConcept.deps.json
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\bin\Debug\net6.0\CSharpConcept.runtimeconfig.json
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\bin\Debug\net6.0\CSharpConcept.dll
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\bin\Debug\net6.0\CSharpConcept.pdb
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.csproj.AssemblyReference.cache
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.AssemblyInfoInputs.cache
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.AssemblyInfo.cs
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.csproj.CoreCompileInputs.cache
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.dll
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\refint\CSharpConcept.dll
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.pdb
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\CSharpConcept.genruntimeconfig.cache
+C:\Users\danny\CODE\CSharpConcept\CSharpConcept\obj\Debug\net6.0\ref\CSharpConcept.dll

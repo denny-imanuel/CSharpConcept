@@ -1,0 +1,15 @@
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\bin\Debug\net6.0\MyCSharp1.exe
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\bin\Debug\net6.0\MyCSharp1.deps.json
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\bin\Debug\net6.0\MyCSharp1.runtimeconfig.json
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\bin\Debug\net6.0\MyCSharp1.dll
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\bin\Debug\net6.0\MyCSharp1.pdb
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.csproj.AssemblyReference.cache
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.AssemblyInfoInputs.cache
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.AssemblyInfo.cs
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.csproj.CoreCompileInputs.cache
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.dll
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\refint\MyCSharp1.dll
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.pdb
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\MyCSharp1.genruntimeconfig.cache
+C:\Users\danny\CODE\MyCSharp1\MyCSharp1\obj\Debug\net6.0\ref\MyCSharp1.dll
